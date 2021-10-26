@@ -39,4 +39,4 @@ Temp=22.0*  Humidity=51.1%
 # Ref
 - [AM2302 (WIRED DHT22) TEMPERATURE-HUMIDITY SENSOR](https://www.adafruit.com/product/393)
 - [AM2302 Temp/Humidity Sensor](https://thepihut.com/blogs/raspberry-pi-tutorials/am2302-temp-humidity-sensor)
-- [Tutorial DHT22, DHT11 und AM2302 Temperatursensor / Feuchtigkeitsensor am Raspberry Pi anschließen und ansteuern](https://buyzero.de/blogs/news/tutorial-dht22-dht11-und-am2302-temperatursensor-feuchtigkeitsensor-am-raspberry-pi-anschliessen-und-ansteuern)
+- [Tutorial DHT22, DHT11 und AM2302 Temperatursensor](https://buyzero.de/blogs/news/tutorial-dht22-dht11-und-am2302-temperatursensor-feuchtigkeitsensor-am-raspberry-pi-anschliessen-und-ansteuern)
